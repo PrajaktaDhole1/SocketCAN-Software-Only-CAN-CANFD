@@ -369,8 +369,6 @@ The software-only approach provides a convenient environment for learning, devel
 
 **Prajakta Dhole**
 
-Electronics and Telecommunication Engineering
-
 ### Project
 
 **Exploring SocketCAN: Software-Only CAN/CAN FD Communication on Linux**
